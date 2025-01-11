@@ -51,7 +51,7 @@ const ProductCard = ({ id, img, category, title, price }: propsTypes) => {
                 <div className="flex justify-between items-center mt-4">
                     <h2 className="font-medium text-accent text-xl">${price}</h2>
                     <div 
-                        className="flex gap-2 items-center bg-pink text-white px-4 py-2 cursor-pointer
+                        className="flex gap-2 items-center bg-black text-white px-4 py-2 cursor-pointer
                         hover:bg-accent"
                         onClick={addProductToCart}
                         >

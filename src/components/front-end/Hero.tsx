@@ -5,7 +5,7 @@ const Hero =  () => {
                 <div className="flex items-center">
                     <div className="max-w-[450px] space-y-4">
                         <p className="text-topHeadingSecondy">
-                            Starting with <span className="font-bold"> 1 Black Man</span>
+                            Starting with <span className="font-bold"> $999.00</span>
                         </p>
 
                         <h1 className="text-topHeadingPrimary font-bold text-4x1 md:text-5xl">
